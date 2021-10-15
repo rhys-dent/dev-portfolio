@@ -1,0 +1,69 @@
+[
+	{
+		"title": "Custom Kana Quiz (Work in progress)",
+		"url": "https://kana-quiz.herokuapp.com/login",
+		"src": "custom-kana-quiz.png",
+		"description": "A react web app intended to help users memorize both japanese alphabets. Users creates an account, then creates custom quizzes with the characters they feel the need to the most practice with.",
+		"technologies": ["Node.js", "React.js", "Express.js"],
+		"code": "https://github.com/rhys-dent/custom-kana-quiz"
+	},
+	{
+		"title": "Connecting to MySQL on AWS RDS using Node.js",
+		"url": "https://www.youtube.com/watch?v=6Nt-Jl3CzxE",
+		"src": "nodejs-rds-connection-tut.jpg",
+		"description": "Video tutorial demonstrating how to create a MySQL database hosted on Amazon RDS and connect to it using a Node.js and Express.js server ",
+		"technologies": ["Node.js", "Amazon RDS"]
+	},
+	{
+		"title": "Promethus Property Management",
+		"url": "http://prometheuspm.com/",
+		"src": "prometheus-property-management.jpg",
+		"description": "A brochure website developed during my practicum to help promote my employer's property management company to potential clients. ",
+		"technologies": ["React.js", "AWS Amplify"]
+	},
+	{
+		"title": "the Coffee Grounds",
+		"url": "https://thecoffeegrounds.rhysdentportfolio.ca/",
+		"src": "thecoffeegrounds.jpg",
+		"description": "A single page website for a fictional Cafe",
+		"technologies": ["Javascript", "Amazon CloudFront", "Amazon S3"]
+	},
+	{
+		"title": "Falling Voxels",
+		"category": "other",
+		"url": "http://falling-voxels.s3-website-us-west-2.amazonaws.com/",
+		"src": "fallingvoxels.jpg",
+		"description": "Simple game demo where the player adds and remove voxels. Any voxels that are free floating will tumble to the ground.",
+		"technologies": ["Godot", "Amazon S3"]
+	},
+	{
+		"title": "Pathfinding Algorithm (Breadth First Search)",
+		"category": "other",
+		"url": "http://path-finding-algorithm.s3-website-us-west-2.amazonaws.com/",
+		"src": "pathfindingalgorithm.jpg",
+		"description": "",
+		"technologies": ["Javascript"]
+	},
+	{
+		"title": "User Database",
+		"url": "https://express-user-database.herokuapp.com/",
+		"src": "userdatabase.jpg",
+		"description": "A RESTful API that allows for CRUD operations on a user database. The API is an express app hosted by Heroku and the database is hosted by MongoDB Atlas.",
+		"technologies": ["Express.js", "MongoDB", "Node.js"]
+	},
+	{
+		"title": "Kana Quiz",
+		"url": "https://master.dojb0il0pmvkq.amplifyapp.com/",
+		"src": "kanaquiz.jpg",
+		"description": "A simple web application intended to help to users memorize the Japanese alphabet. Both hiragana and katana.",
+		"technologies": ["React.js", "AWS Amplify"]
+	},
+
+	{
+		"title": "Tallycraft",
+		"url": "https://tallycraft.rhysdentportfolio.ca/",
+		"src": "tallycraft.jpg",
+		"description": "A single page website created to share my mother's crafting hobby.",
+		"technologies": ["Javascript", "Amazon CloudFront", "Amazon S3"]
+	}
+]
